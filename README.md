@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Adriana 👋
 
-<!--
-**AdriVilla13/AdriVilla13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst based in Mexico City. I turn messy data into clear answers for business decisions.
 
-Here are some ideas to get you started:
+Experienced in purchasing and data analysis. I combine knowledge of procurement, supplier management, and cost control with technical skills in SQL, Python, and dashboarding to turn data into better business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+
+- **SQL:** complex queries, JOINs, CTEs, and window functions
+- **Python:** data cleaning and analysis with pandas
+- **Statistics:** descriptive statistics, hypothesis testing, and regression analysis (scikit-learn)
+- **Visualization:** dashboards in Redash; currently deepening my skills in Power BI and Tableau
+- **Excel:** data analysis and preparation
+
+## 📊 Featured Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| [Restaurant Customer Satisfaction](link) | Analysis of 60 survey responses: satisfaction index, server performance, and areas for improvement | Power BI, Excel |
+| [Coming soon: SQL Analysis](link) | Business questions answered with SQL on a public dataset | SQL |
+
+## 🌱 Currently
+
+- Building my data analysis portfolio
