@@ -16,7 +16,7 @@ Experienced in purchasing and data analysis. I combine knowledge of procurement,
 
 | Project | Description | Tools |
 |---|---|---|
-| [Restaurant Customer Satisfaction](link) | Analysis of 60 survey responses: satisfaction index, server performance, and areas for improvement | Power BI, Excel |
+| [Restaurant Customer Satisfaction](https://github.com/AdriVilla13/satisfaction-survey-powerbi) | Power BI dashboard for a 60-response survey: satisfaction index, server heat map and data-driven recommendations | Power BI, DAX, Power Query, Python |
 | [Coming soon: SQL Analysis](link) | Business questions answered with SQL on a public dataset | SQL |
 
 ## 🌱 Currently
